@@ -250,7 +250,7 @@ const data = [
   },
   {
     id: 27,
-    title: "Kanban- Drag&Drop(Decktop)",
+    title: "Kanban- Drag&Drop(Desktop)",
     img: image27,
     demoUrl: "https://shakhi95.github.io/kanban-board/",
     codeUrl: "https://github.com/shakhi95/kanban-board",
