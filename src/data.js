@@ -26,7 +26,7 @@ import image24 from "./images/bs-landing.jpg";
 import image25 from "./images/dashboard1.jpg";
 import image26 from "./images/dashboard2.jpg";
 import image27 from "./images/kanbanboard.jpg";
-
+import image28 from "./images/hashtagsocialapp.jpg";
 //
 const data = [
   {
@@ -255,6 +255,14 @@ const data = [
     demoUrl: "https://shakhi95.github.io/kanban-board/",
     codeUrl: "https://github.com/shakhi95/kanban-board",
     level: "js",
+  },
+  {
+    id: 28,
+    title: "Social Media - Hashtag",
+    img: image28,
+    demoUrl: "https://shakhi95.github.io/Hashtag-social-app/#/",
+    codeUrl: "https://github.com/shakhi95/Hashtag-social-app",
+    level: "react3",
   },
 ];
 
